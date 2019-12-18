@@ -1,0 +1,11 @@
+/Users/anestisfinstad/democonsole/bin/Debug/netcoreapp3.1/democonsole
+/Users/anestisfinstad/democonsole/bin/Debug/netcoreapp3.1/democonsole.deps.json
+/Users/anestisfinstad/democonsole/bin/Debug/netcoreapp3.1/democonsole.runtimeconfig.json
+/Users/anestisfinstad/democonsole/bin/Debug/netcoreapp3.1/democonsole.runtimeconfig.dev.json
+/Users/anestisfinstad/democonsole/bin/Debug/netcoreapp3.1/democonsole.dll
+/Users/anestisfinstad/democonsole/bin/Debug/netcoreapp3.1/democonsole.pdb
+/Users/anestisfinstad/democonsole/obj/Debug/netcoreapp3.1/democonsole.csprojAssemblyReference.cache
+/Users/anestisfinstad/democonsole/obj/Debug/netcoreapp3.1/democonsole.AssemblyInfoInputs.cache
+/Users/anestisfinstad/democonsole/obj/Debug/netcoreapp3.1/democonsole.AssemblyInfo.cs
+/Users/anestisfinstad/democonsole/obj/Debug/netcoreapp3.1/democonsole.dll
+/Users/anestisfinstad/democonsole/obj/Debug/netcoreapp3.1/democonsole.pdb
